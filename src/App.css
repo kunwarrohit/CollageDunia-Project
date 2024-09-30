@@ -1,9 +1,32 @@
+/* Responsive Styling */
+@media screen and (max-width: 768px) {
+  .mobile-hide {
+    display: none;
+  }
+
+  .college-table td {
+    display: block;
+  }
+
+  .college-info {
+    margin-bottom: 10px;
+  }
+
+  .college-table td:first-child {
+    font-weight: bold;
+  }
+}
+
+
+.college-table th {
+  text-align: center; 
+  /* width: 100%; */
+}
 .college-row {
   display: flex;
   border-bottom: 1px solid #ccc;
   padding: 15px;
   align-items: center;
-  border:1px solid black;
 }
 .name{
   color:rgb(99, 199, 233);
@@ -11,6 +34,9 @@
 }
 .loc{
   font-size:12px
+}
+.bod{
+  /* border:1px solid black; */
 }
 
 .college-details {
@@ -62,6 +88,7 @@
 .fees, .placement, .user-reviews, .ranking {
   flex: 1;
   text-align: center;
+  
 }
 
 .ranking {

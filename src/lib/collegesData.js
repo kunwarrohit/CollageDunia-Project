@@ -50,7 +50,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 1,
+    rank: 3,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -75,7 +75,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 2,
+    rank: 4,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -100,7 +100,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 1,
+    rank: 5,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -125,7 +125,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 2,
+    rank: 6,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -150,7 +150,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 1,
+    rank: 7,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -175,7 +175,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 2,
+    rank: 8,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -200,7 +200,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 1,
+    rank: 9,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -225,7 +225,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 2,
+    rank: 10,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -250,7 +250,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 1,
+    rank: 11,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -275,7 +275,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 2,
+    rank: 12,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -300,7 +300,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 1,
+    rank: 13,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -325,7 +325,7 @@ const colleges = [
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
   {
-    rank: 2,
+    rank: 14,
     logo: "url/to/iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
@@ -335,7 +335,7 @@ const colleges = [
       exam: "JEE-Advanced",
       cutoff: 419,
     },
-    fees: 242000,
+    fees: 252000,
     placement: {
       average: 2148000,
       highest: 19800000,
