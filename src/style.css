@@ -1,0 +1,98 @@
+/* .college-row {
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    padding: 15px;
+    align-items: center;
+  }
+  
+  .college-details {
+    display: flex;
+    flex: 2;
+    align-items: center;
+  }
+  
+  .college-logo {
+    width: 50px;
+    margin-right: 15px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  td img {
+    margin-right: 10px;
+  }
+  
+  td div {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .college-info {
+    flex: 1;
+  }
+  
+  .course-info {
+    font-size: 12px;
+    color: #666;
+  }
+  
+  .actions button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
+  .apply-now {
+    background-color: orange;
+    color: white;
+  }
+  
+  .download-brochure {
+    background-color: green;
+    color: white;
+  }
+  
+  .fees, .placement, .user-reviews, .ranking {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .ranking {
+    font-weight: bold;
+  }
+   */
+
+   .App {
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
