@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Collage Dunia
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Output:
+Cd Rank Ascending: ![collage](https://github.com/user-attachments/assets/7104d888-304b-4436-8271-17a0ea40d491) 
+#
+#
+#
+Course Fee Ascending: ![fee](https://github.com/user-attachments/assets/d64f3d26-47f8-4a14-91d1-ccdcacef8c78)
+#
+#
+CollageDunia is a website dedicated to helping students find the perfect college in India. It has a massive database of colleges, allowing users to filter and compare options based on their preferences.
 
-## Available Scripts
+The key feature is the Collage Table, which presents a detailed comparison of different colleges side-by-side. Users can filter by location, course, fees, entrance exams, and other criteria to narrow down their choices. The table showcases key metrics like rankings, placements, infrastructure, faculty, and more, providing students with valuable insights to make informed decisions.
 
-In the project directory, you can run:
+By using CollageDunia, students can save time and effort, gain access to comprehensive information, and ultimately choose the college that best suits their needs and aspirations.
 
-### `npm start`
+#### Saves time and effort: No need to research each college individually.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Comprehensive information: Provides a holistic view of each college.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Objective comparison: Allows students to compare colleges based on data rather than hearsay.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Clear decision-making: Helps students choose the best college for their needs and goals.
