@@ -7,7 +7,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>College Ranking</h1>
+        <h1 className="text-center text-2xl font-bold underline">
+          College Ranking
+        </h1>
       </header>
       <div className="college-table">
         {colleges.map((college, index) => (

@@ -38,10 +38,10 @@ const CollegeRow = () => {
             className={`sort-button ${
               sortColumn === header.toLowerCase() ? "active" : ""
             }`}
-            onClick={() => handleSort(header.toLowerCase())}
+            onClick={() => handleSort(header.toLowerCase().replace(" ", ""))} // Remove spaces for sorting
           >
             {header}
-            {sortColumn === header.toLowerCase() && (
+            {sortColumn === header.toLowerCase().replace(" ", "") && (
               <span className={`sort-icon ${sortOrder}`}>
                 {sortOrder === "asc" ? "▲" : "▼"}
               </span>
@@ -55,17 +55,9 @@ const CollegeRow = () => {
             {tableData.tableHeaders.map((header, index) => (
               <th
                 key={index}
-                className={`p-4 text-center border-b border-x-4 bg-cyan-200 ${
-                  sortColumn === header.toLowerCase() ? "sorted" : ""
-                }`}
-                onClick={() => handleSort(header.toLowerCase())}
+                className="p-4 text-center border-b border-x-4 bg-cyan-200 "
               >
                 {header}
-                {sortColumn === header.toLowerCase() && (
-                  <span className={`sort-icon ${sortOrder}`}>
-                    {sortOrder === "asc" ? "▲" : "▼"}
-                  </span>
-                )}
               </th>
             ))}
           </tr>
