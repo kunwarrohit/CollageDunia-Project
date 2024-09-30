@@ -1,7 +1,7 @@
 const colleges = [
   {
     rank: 1,
-    logo: "url/to/iitmadras-logo.png",
+    logo: "iitmadras-logo.png",
     name: "IIT Madras - Indian Institute of Technology",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
@@ -27,7 +27,7 @@ const colleges = [
   {
     rank: 2,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Delhi - Indian Institute of Technology [IITD], New Delhi",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -52,7 +52,7 @@ const colleges = [
   {
     rank: 3,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -77,7 +77,7 @@ const colleges = [
   {
     rank: 4,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Kharagpur - Indian Institute of Technology - [IITKGP], Kharagpur",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -102,7 +102,7 @@ const colleges = [
   {
     rank: 5,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Kanpur - Indian Institute of Technology - [IITK], Kanpur",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -127,7 +127,7 @@ const colleges = [
   {
     rank: 6,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Roorkee - Indian Institute of Technology - [IITR], Roorkee",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -152,7 +152,7 @@ const colleges = [
   {
     rank: 7,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "BITS Pilani (Pilani Campus), Pilani",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -177,7 +177,7 @@ const colleges = [
   {
     rank: 8,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Guwahati - Indian Institute of Technology - [IITG], Guwahati",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -202,7 +202,7 @@ const colleges = [
   {
     rank: 9,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT Hyderabad - Indian Institute of Technology - [IITH], Hyderabad",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -227,7 +227,7 @@ const colleges = [
   {
     rank: 10,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "College of Engineering, Anna University - [CEG], Chennai",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -252,7 +252,7 @@ const colleges = [
   {
     rank: 11,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "NIT Trichy, Tiruchirappalli",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -270,7 +270,7 @@ const colleges = [
       totalReviews: 374,
       badge: "Best in Social Life",
     },
-    nationalRank: 153,
+    nationalRank: 15,
     totalColleges: 275,
     rankingAgencies: ["The Week", "NIRF", "QS"],
   },
@@ -302,7 +302,7 @@ const colleges = [
   {
     rank: 13,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "IIT BHU - Indian Institute of Technology, Varanasi",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {
@@ -327,7 +327,7 @@ const colleges = [
   {
     rank: 14,
     logo: "url/to/iitmadras-logo.png",
-    name: "IIT Madras - Indian Institute of Technology",
+    name: "Institute of Chemical Technology - [ICT], Mumbai",
     location: "Chennai, Tamil Nadu",
     approval: "AICTE Approved",
     course: {

@@ -35,9 +35,6 @@
 .loc{
   font-size:12px
 }
-.bod{
-  /* border:1px solid black; */
-}
 
 .college-details {
   display: flex;
@@ -93,4 +90,23 @@
 
 .ranking {
   font-weight: bold;
+}
+
+.btn:hover{
+  border-radius: 15px;
+  font-size: 15px;
+  width:100px;
+  heigth:20px;
+}
+.btn{
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border:1px solid orange;
+  border-radius: 15px;
+  font-size: 12px;
+  width:100px;
+  heigth:20px;
+  color: rgb(225, 152, 18);
+  background-color:rgb(231, 221, 203);
+
 }

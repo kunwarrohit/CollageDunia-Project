@@ -7,15 +7,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="text-center text-2xl font-bold underline">
+        <p className="text-center text-2xl font-bold underline">
           College Ranking
-        </h1>
+        </p>
       </header>
-      <div className="college-table">
-        {colleges.map((college, index) => (
-          <CollegeRow key={index} college={college} />
-        ))}
-      </div>
+      <CollegeRow />
     </div>
   );
 }
