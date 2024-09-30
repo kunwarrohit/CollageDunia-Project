@@ -6,10 +6,10 @@ The key feature is the Collage Table, which presents a detailed comparison of di
 
 By using CollageDunia, students can save time and effort, gain access to comprehensive information, and ultimately choose the college that best suits their needs and aspirations.
 
-### Saves time and effort: No need to research each college individually.
+#### Saves time and effort: No need to research each college individually.
 
-### Comprehensive information: Provides a holistic view of each college.
+#### Comprehensive information: Provides a holistic view of each college.
 
-### Objective comparison: Allows students to compare colleges based on data rather than hearsay.
+#### Objective comparison: Allows students to compare colleges based on data rather than hearsay.
 
-### Clear decision-making: Helps students choose the best college for their needs and goals.
+#### Clear decision-making: Helps students choose the best college for their needs and goals.
